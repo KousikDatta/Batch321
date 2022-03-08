@@ -216,7 +216,7 @@ or
 git push origin tag-name tag-name
 
 git tag -d tag-name
-
+Praneeth is an asshole
 git push origin -d tag-name
 
 
@@ -252,11 +252,7 @@ git config --global --unset user.name
 
 
 
-vi .gitignore
---------------
-file1
-file2
-file3
+sample line 1
 
 
 
